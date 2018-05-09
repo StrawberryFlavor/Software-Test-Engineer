@@ -3,7 +3,7 @@
 
 ## 目录导航 ##
 
-##[web测试小总结](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/Testing%20Web.md#%E6%80%BB%E7%BB%93%E4%B8%8B%E9%81%87%E5%88%B0%E7%9A%84web%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9) ##
+## [web测试小总结](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/Testing%20Web.md#%E6%80%BB%E7%BB%93%E4%B8%8B%E9%81%87%E5%88%B0%E7%9A%84web%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9) ##
 
 ## [基础面试题](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98) ##
 
