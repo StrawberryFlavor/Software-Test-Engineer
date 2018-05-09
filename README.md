@@ -16,3 +16,7 @@
 4. **[HTTP和HTTPS的区别？](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#http%E5%92%8Chttps%E7%9A%84%E5%8C%BA%E5%88%AB)**
 
 5. **[cookie和session的区别？](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#cookie%E5%92%8Csession%E7%9A%84%E5%8C%BA%E5%88%AB)**
+
+6. **[测试的策略有哪些？](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5%E6%9C%89%E5%93%AA%E4%BA%9B)**
+
+7. **[软件测试的风险主要体现在哪里？](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5%E6%9C%89%E5%93%AA%E4%BA%9B)**
