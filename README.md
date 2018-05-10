@@ -7,7 +7,7 @@
 
 ## [基础面试题](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98) ##
 
-1. **[你在测试中发现了一个bug，但是开发经理认为这不是一个bug，你应该怎样解决？](你在测试中发现了一个bug，但是开发经理认为这不是一个bug，你应该怎样解决？)**
+1. **[你在测试中发现了一个bug，但是开发经理认为这不是一个bug，你应该怎样解决？](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E4%BD%A0%E5%9C%A8%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AAbug%E4%BD%86%E6%98%AF%E5%BC%80%E5%8F%91%E7%BB%8F%E7%90%86%E8%AE%A4%E4%B8%BA%E8%BF%99%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AAbug%E4%BD%A0%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7%E8%A7%A3%E5%86%B3)**
 
 2. **[给你一个网站，你如何测试？](https://github.com/StrawberryFlavor/Software-Test-Engineer/blob/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E7%BB%99%E4%BD%A0%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%E4%BD%A0%E5%A6%82%E4%BD%95%E6%B5%8B%E8%AF%95)**
 
